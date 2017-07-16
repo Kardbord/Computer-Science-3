@@ -1,0 +1,52 @@
+
+game0.txt
+Total Score for game0.txt: 2504
+Words of length 3: 2
+Words of length 4: 4
+Words of length 5: 4
+Words of length 6: 2
+Words of length 8: 2
+Words of length 9: 1
+
+game1.txt
+Total Score for game1.txt: 11807
+Words of length 3: 29
+Words of length 4: 48
+Words of length 5: 21
+Words of length 6: 4
+Words of length 7: 4
+Words of length 8: 3
+Words of length 9: 3
+Words of length 10: 1
+Words of length 11: 1
+
+game2.txt
+Total Score for game2.txt: 6575
+Words of length 3: 15
+Words of length 4: 22
+Words of length 5: 8
+Words of length 8: 1
+Words of length 45: 2
+
+game3.txt
+Total Score for game3.txt: 110960
+Words of length 3: 374
+Words of length 4: 404
+Words of length 5: 166
+Words of length 6: 112
+Words of length 7: 88
+Words of length 8: 40
+Words of length 9: 17
+Words of length 10: 4
+Words of length 12: 1
+Words of length 28: 1
+
+game4.txt
+Total Score for game4.txt: 24733
+Words of length 3: 90
+Words of length 4: 73
+Words of length 5: 46
+Words of length 6: 11
+Words of length 7: 19
+Words of length 8: 12
+Words of length 9: 3

@@ -1,0 +1,73 @@
+README:
+-  To print other tours and cycles to the console, go to TestEuler.cpp and change the second parameter of the computeTour and printCycles functions to true
+-  When printing cycles, the number in parenthesis by each edge gives the cycleID of that edge
+-  Also, since the graph is undirected, edges (and their cycles) will only be printed once
+      -  For example: A-B (0) means that there is an undirected edge from A to B (and from B to A) that is marked as being in cycle 0
+
+
+prog7A.txt
+Euler Tour:
+A -> B -> E -> C -> F -> B -> G -> C -> D -> A
+
+Cycles:
+   D-A (0)
+   C-F (0)
+   C-G (0)
+   A-B (0)
+   B-E (0)
+   E-C (0)
+   C-D (0)
+   G-B (0)
+   F-B (0)
+
+
+prog7B.txt
+Euler Tour:
+A -> B -> C -> A -> D -> E -> A
+
+Cycles:
+   A-B (0)
+   B-C (0)
+   C-A (0)
+   A-E (1)
+   E-D (1)
+   D-A (1)
+
+
+prog7C.txt
+Euler Tour:
+A -> B -> H -> F -> C -> P -> O -> D -> E -> F -> G -> R -> S -> N -> T -> R -> J -> H -> I -> K -> J -> L -> I -> B -> Q -> C -> E -> G -> D -> N -> K -> M -> A
+
+Cycles:
+   L-I (0)
+   L-J (0)
+   A-B (0)
+   A-M (0)
+   M-K (0)
+   K-N (0)
+   S-N (1)
+   S-R (1)
+   R-T (1)
+   T-N (1)
+   N-D (0)
+   D-O (0)
+   O-P (0)
+   P-C (0)
+   C-E (0)
+   F-C (0)
+   G-E (0)
+   F-E (0)
+   F-G (0)
+   G-D (0)
+   E-D (0)
+   R-G (0)
+   R-J (0)
+   K-J (0)
+   K-I (0)
+   I-H (0)
+   J-H (0)
+   I-B (0)
+   H-B (0)
+   H-F (0)
+   B-Q (0)
+   Q-C (0)

@@ -1,0 +1,115 @@
+Test after insertion/build:
+7
+  3
+    1
+      2
+    5
+      4
+  9
+    9
+      8
+    9
+      9
+      11
+END Test after insertion/build:
+
+Test after removing 7 and 9:
+8
+  3
+    1
+      2
+    5
+      4
+  9
+    9
+    11
+      9
+END Test after removing 7 and 9:
+
+Test after inserting additional values:
+8
+  3
+    1
+      2
+    5
+      4
+  11
+    9
+      9
+      9
+    30
+      18
+        15
+        30
+      50
+        30
+END Test after inserting additional values:
+
+Test after removeMin:
+8
+  3
+    2
+    5
+      4
+  11
+    9
+      9
+      9
+    30
+      18
+        15
+        30
+      50
+        30
+END Test after removeMin:
+
+Test after removeMin:
+11
+  8
+    4
+      3
+      5
+    9
+      9
+      9
+  30
+    18
+      15
+      30
+    50
+      30
+END Test after removeMin:
+
+Test after removeMin:
+11
+  8
+    4
+      5
+    9
+      9
+      9
+  30
+    18
+      15
+      30
+    50
+      30
+END Test after removeMin:
+
+Test after Adding 17:
+11
+  8
+    4
+      5
+    9
+      9
+      9
+  30
+    18
+      15
+        17
+      30
+    50
+      30
+END Test after Adding 17:
+
